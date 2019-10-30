@@ -1,0 +1,4 @@
+Android 10 release note 以及应用变更　https://juejin.im/entry/5d2e722b5188252f267d0b42
+
+Google Doc
+Android 10 Release https://developer.android.com/about/versions/10/privacy/changes

@@ -1,0 +1,21 @@
+Android_存储之scoped storage&媒体文件
+https://www.cnblogs.com/fanglongxiang/p/11498632.html
+
+Android_存储之文件存储
+https://www.cnblogs.com/fanglongxiang/p/11451763.html
+
+Android_存储访问框架SAF
+https://www.cnblogs.com/fanglongxiang/p/11635169.html
+
+Android Q scoped storage
+https://shoewann0402.github.io/2019/03/17/android-q-beta-scoped-storage/
+
+
+Google Doc
+Manage scoped external storage access  https://developer.android.com/training/data-storage/files/external-scoped
+Open files using storage access framework (Google ASF) https://developer.android.com/guide/topics/providers/document-provider
+
+
+
+F2FS保留块特性分析及如何在Android上使用
+http://tjtech.me/f2fs-block-reservation-analysis-and-usage-on-android.html
