@@ -1,0 +1,2 @@
+GC　导致System_server 死锁
+https://wwm0609.github.io/2019/05/17/art-jni-critical-deadlock/#more

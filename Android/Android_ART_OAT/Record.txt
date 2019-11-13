@@ -1,0 +1,2 @@
+Android 8.0 VDEX机制简介
+https://wwm0609.github.io/2017/12/21/android-vdex/

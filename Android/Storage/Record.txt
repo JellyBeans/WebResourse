@@ -19,3 +19,5 @@ Open files using storage access framework (Google ASF) https://developer.android
 
 F2FS保留块特性分析及如何在Android上使用
 http://tjtech.me/f2fs-block-reservation-analysis-and-usage-on-android.html
+Android Go在data分区填近满后不能启动bug分析
+http://tjtech.me/analyze-boot-failed-when-full-data-part-under-android-go.html
